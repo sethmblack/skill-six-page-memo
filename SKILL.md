@@ -3,8 +3,8 @@ name: six-page-memo
 description: Structure complex proposals, strategic decisions, and business cases using narrative prose instead of bullet points. This forces complete thinking and eliminates the logical gaps that slide decks h...
 license: MIT
 metadata:
-  version: 1.0.4993
   author: sethmblack
+  version: 1.0.4994
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - six-page-memo
